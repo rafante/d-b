@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 50f69283d28db2540a666739a5450ed9
+timeCreated: 1498089822
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Tetricide (BRK)
+  fontNames:
+  - Tetricide (BRK)
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1764 @@
+fileFormatVersion: 2
+guid: 74068d8a0bdfd6b44a74e8e73b52a49d
+timeCreated: 1497110181
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: free-flat-icons_0
+    21300002: free-flat-icons_1
+    21300004: free-flat-icons_2
+    21300006: free-flat-icons_3
+    21300008: free-flat-icons_4
+    21300010: free-flat-icons_5
+    21300012: free-flat-icons_6
+    21300014: free-flat-icons_7
+    21300016: free-flat-icons_8
+    21300018: free-flat-icons_9
+    21300020: free-flat-icons_10
+    21300022: free-flat-icons_11
+    21300024: free-flat-icons_12
+    21300026: free-flat-icons_13
+    21300028: free-flat-icons_14
+    21300030: free-flat-icons_15
+    21300032: free-flat-icons_16
+    21300034: free-flat-icons_17
+    21300036: free-flat-icons_18
+    21300038: free-flat-icons_19
+    21300040: free-flat-icons_20
+    21300042: free-flat-icons_21
+    21300044: free-flat-icons_22
+    21300046: free-flat-icons_23
+    21300048: free-flat-icons_24
+    21300050: free-flat-icons_25
+    21300052: free-flat-icons_26
+    21300054: free-flat-icons_27
+    21300056: free-flat-icons_28
+    21300058: free-flat-icons_29
+    21300060: free-flat-icons_30
+    21300062: free-flat-icons_31
+    21300064: free-flat-icons_32
+    21300066: free-flat-icons_33
+    21300068: free-flat-icons_34
+    21300070: free-flat-icons_35
+    21300072: free-flat-icons_36
+    21300074: free-flat-icons_37
+    21300076: free-flat-icons_38
+    21300078: free-flat-icons_39
+    21300080: free-flat-icons_40
+    21300082: free-flat-icons_41
+    21300084: free-flat-icons_42
+    21300086: free-flat-icons_43
+    21300088: free-flat-icons_44
+    21300090: free-flat-icons_45
+    21300092: free-flat-icons_46
+    21300094: free-flat-icons_47
+    21300096: free-flat-icons_48
+    21300098: free-flat-icons_49
+    21300100: free-flat-icons_50
+    21300102: free-flat-icons_51
+    21300104: free-flat-icons_52
+    21300106: free-flat-icons_53
+    21300108: free-flat-icons_54
+    21300110: free-flat-icons_55
+    21300112: free-flat-icons_56
+    21300114: free-flat-icons_57
+    21300116: free-flat-icons_58
+    21300118: free-flat-icons_59
+    21300120: free-flat-icons_60
+    21300122: free-flat-icons_61
+    21300124: free-flat-icons_62
+    21300126: free-flat-icons_63
+    21300128: free-flat-icons_64
+    21300130: free-flat-icons_65
+    21300132: free-flat-icons_66
+    21300134: free-flat-icons_67
+    21300136: free-flat-icons_68
+    21300138: free-flat-icons_69
+    21300140: free-flat-icons_70
+    21300142: free-flat-icons_71
+    21300144: free-flat-icons_72
+    21300146: free-flat-icons_73
+    21300148: free-flat-icons_74
+    21300150: free-flat-icons_75
+    21300152: free-flat-icons_76
+    21300154: free-flat-icons_77
+    21300156: free-flat-icons_78
+    21300158: free-flat-icons_79
+    21300160: free-flat-icons_80
+    21300162: free-flat-icons_81
+    21300164: free-flat-icons_82
+    21300166: free-flat-icons_83
+    21300168: free-flat-icons_84
+    21300170: free-flat-icons_85
+    21300172: free-flat-icons_86
+    21300174: free-flat-icons_87
+    21300176: free-flat-icons_88
+    21300178: free-flat-icons_89
+    21300180: free-flat-icons_90
+    21300182: free-flat-icons_91
+    21300184: free-flat-icons_92
+    21300186: free-flat-icons_93
+    21300188: free-flat-icons_94
+    21300190: free-flat-icons_95
+    21300192: free-flat-icons_96
+    21300194: free-flat-icons_97
+    21300196: free-flat-icons_98
+    21300198: free-flat-icons_99
+    21300200: free-flat-icons_100
+    21300202: free-flat-icons_101
+    21300204: free-flat-icons_102
+    21300206: free-flat-icons_103
+    21300208: free-flat-icons_104
+    21300210: free-flat-icons_105
+    21300212: free-flat-icons_106
+    21300214: free-flat-icons_107
+    21300216: free-flat-icons_108
+    21300218: free-flat-icons_109
+    21300220: free-flat-icons_110
+    21300222: free-flat-icons_111
+    21300224: free-flat-icons_112
+    21300226: free-flat-icons_113
+    21300228: free-flat-icons_114
+    21300230: free-flat-icons_115
+    21300232: free-flat-icons_116
+    21300234: free-flat-icons_117
+    21300236: free-flat-icons_118
+    21300238: free-flat-icons_119
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: free-flat-icons_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1410
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1410
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_2
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1410
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_3
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1410
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_4
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1410
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_5
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1410
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_6
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1410
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_7
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1410
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_8
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1410
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_9
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 1410
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1282
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_11
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1282
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_12
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1282
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_13
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1278
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_14
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1282
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_15
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1282
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_16
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1282
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_17
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1282
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_18
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1282
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_19
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 1282
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1154
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_21
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1154
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_22
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1154
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_23
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1154
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_24
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1154
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_25
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1154
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_26
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1154
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_27
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1154
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_28
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1154
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_29
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 1154
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1026
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_31
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1026
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_32
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1026
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_33
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1026
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_34
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1026
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_35
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1026
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_36
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1026
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_37
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1026
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_38
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1026
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_39
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 1026
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_40
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 898
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_41
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 898
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_42
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 898
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_43
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 896
+        width: 111
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_44
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 898
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_45
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 898
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_46
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 898
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_47
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 898
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_48
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 898
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_49
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 898
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_50
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 770
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_51
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 770
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_52
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 770
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_53
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 770
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_54
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 770
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_55
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 770
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_56
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 770
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_57
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 770
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_58
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 770
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_59
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 770
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_60
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 642
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_61
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 642
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_62
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 642
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_63
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 642
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_64
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 642
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_65
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 642
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_66
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 642
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_67
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 642
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_68
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 642
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_69
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 642
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_70
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 514
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_71
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 514
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_72
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 514
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_73
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 514
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_74
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 514
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_75
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 514
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_76
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 514
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_77
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 514
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_78
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 514
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_79
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 514
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_80
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 386
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_81
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 386
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_82
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 386
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_83
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 386
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_84
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 386
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_85
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 386
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_86
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 386
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_87
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 386
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_88
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 386
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_89
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 386
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_90
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 258
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_91
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 258
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_92
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 258
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_93
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 258
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_94
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 258
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_95
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 258
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_96
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 258
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_97
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 258
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_98
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 258
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_99
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 258
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_100
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 130
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_101
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 130
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_102
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 130
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_103
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 130
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_104
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 130
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_105
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 130
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_106
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 130
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_107
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 130
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_108
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 130
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_109
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 130
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_110
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_111
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 2
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_112
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 2
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_113
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 2
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_114
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 2
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_115
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 2
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_116
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 2
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_117
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 2
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_118
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 2
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: free-flat-icons_119
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 2
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

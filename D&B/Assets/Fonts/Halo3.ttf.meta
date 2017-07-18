@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d989845778942284ca3e229067bd6b4d
+timeCreated: 1498089823
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Halo
+  fontNames:
+  - Halo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3311a36f100303f4b8fcc90a2bad93ca, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
