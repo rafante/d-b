@@ -1,10 +1,11 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj" RefactoringSettings.EnableRefactorings="True">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MainMenu.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\SocketIO\Scripts\Test\TestSocketIO.cs">
     <Files>
-      <File FileName="Assets\Scripts\PlayerCreator.cs" Line="32" Column="5" />
-      <File FileName="Assets\Scripts\AdManager.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\MainMenu.cs" Line="49" Column="36" />
+      <File FileName="Assets\Scripts\PlayerCreator.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AdManager.cs" Line="20" Column="3" />
+      <File FileName="Assets\Scripts\MainMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\SocketIO\Scripts\Test\TestSocketIO.cs" Line="38" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

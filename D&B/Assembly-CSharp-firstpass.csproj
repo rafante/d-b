@@ -54,12 +54,14 @@
      <Compile Include="Assets\Plugins\AdmobAPI\AdmobListenerProxy.cs" />
      <Compile Include="Assets\Plugins\AdmobAPI\IAdmobListener.cs" />
      <Compile Include="Assets\Plugins\AdmobAPI\MonoPInvokeCallbackAttribute.cs" />
+     <None Include="Assets\SocketIO\JSONObject\readme.txt" />
      <None Include="Assets\Fonts\Readme.txt" />
      <None Include="Assets\Fonts\tetricide.txt" />
      <None Include="Assets\Fonts\1001fonts-halo-eula.txt" />
      <None Include="Assets\Fonts\kirbynokirakizzu.txt" />
      <None Include="Assets\Fonts\Halo 3 Font Readme.txt" />
      <None Include="Assets\Fonts\zerovelocity.txt" />
+     <None Include="Assets\SocketIO\Readme.txt" />
      <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
      <None Include="Assets\Fonts\license.txt" />
  <Reference Include="UnityEngine.UI">

@@ -17,7 +17,7 @@ public class AdManager : MonoBehaviour
 
 		Admob.Instance ().initAdmob (bannerId, videoId);
 		Admob.Instance ().loadInterstitial ();
-		//Admob.Instance ().setTesting (true);
+		Admob.Instance ().setTesting (true);
 	}
 
 	IEnumerator loadAds(){
